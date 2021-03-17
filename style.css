@@ -1,0 +1,7 @@
+.bike{
+    height: 4rem;
+    border: 1px red solid;
+}
+.moto{
+    border: 4px red solid !important;
+}
